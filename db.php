@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$dbname = 'namyuenh_time_db';
-$username = 'namyuenh_time_db';
-$password = 'XcsqC5MXbCTRKWvgM6Dx';
+$dbname = '';
+$username = '';
+$password = '';
 
 // สร้างการเชื่อมต่อฐานข้อมูล
 try {
